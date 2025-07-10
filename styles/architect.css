@@ -6,6 +6,9 @@
   font-weight: 400;
   font-style: normal;
 }
+*{
+    margin: 0;
+}
 
 /* shared styles  */
 .flex {
@@ -212,7 +215,6 @@ align-items: center;
     background: rgb(255, 244, 231);
     text-align: center;
     padding: 40px 400px;
-    margin-bottom: 216px;
 }
 
 
