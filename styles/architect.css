@@ -205,7 +205,7 @@ align-items: center;
 
 /* footer section style  */
 .footer-container{
-    max-width: 1440px;
+    max-width:1440px;
     margin: 0 auto;
     margin-top: 130px;
     border-radius: 8px;
@@ -247,6 +247,10 @@ align-items: center;
 .our-features{
     margin:20px ;
 }
+.footer-container{
+padding: 40px 60px;
+    margin-bottom: 150px;
+}
 }
 
 /* medium size device  */
@@ -267,5 +271,9 @@ align-items: center;
     grid-template-columns: repeat(2,1fr);
     gap: 50px;
     justify-items: center;
+}
+.footer-container{
+padding: 40px 60px;
+    margin-bottom: 150px;
 }
 }
